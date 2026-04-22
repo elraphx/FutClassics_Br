@@ -1,0 +1,14 @@
+{
+  "id": "São Paulo",
+  "nome_time": "São Paulo Futebol Clube",
+  "sigla_tela": "SAO",
+  "apelido_time": "Tricolor",  
+  "estado_time": "SP",
+  "estadio": "Morumbi",
+  "capacidade_estadio": 66.000,
+  "cores_time": ["Vermelho", "Branco", "Preto"],
+  "maior_idolo": "Rogério Ceni",
+  "rival": ["Santos", "Corinthians", "Palmeiras"],
+  "forca_time": 75,
+  "fundos_time": 38000000
+}

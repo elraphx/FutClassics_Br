@@ -1,0 +1,14 @@
+{
+  "id": "Santos",
+  "nome_time": "Santos Futebol Clube",
+  "sigla_tela": "SAN",
+  "apelido_time": "Peixe",
+  "estado_time": "SP",
+  "estadio": "Vila Belmiro",
+  "capacidade_estadio": 17.000,
+  "cores_time": ["Branco", "Preto"],
+  "maior_idolo": "Pelé",
+  "rival": ["São Paulo", "Palmeiras","Corinthians"],
+  "forca_time": 73,
+  "fundos_time": 27000000
+}

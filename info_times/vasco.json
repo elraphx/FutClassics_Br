@@ -1,0 +1,14 @@
+  {
+  "id": "Vasco",
+  "nome_time": "Clube de Regatas Vasco da Gama",
+  "sigla_tela": "VAS",
+  "apelido_time": "Gigante da Colina",
+  "estado_time": "RJ",
+  "estadio": "São Januário",
+  "capacidade_estadio": 21.880,
+  "cores_time": ["Preto", "Branco"],
+  "maior_idolo": "Roberto Dinamite",
+  "rival": ["Flamengo", "Fluminense", "Botafogo"],
+  "forca_time": 67,
+  "fundos_time": 24000000
+}

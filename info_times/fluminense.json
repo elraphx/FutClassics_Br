@@ -1,0 +1,14 @@
+  {
+  "id": "Fluminense",
+  "nome_time": "Fluminense Football Club",
+  "sigla_tela": "FLU",
+  "apelido_time": "Fluzão",
+  "estado_time": "RJ",
+  "estadio": "Maracanã",
+  "capacidade_estadio": 78.838,
+  "cores_time": ["Verde", "Vermelho", "Branco"],
+  "maior_idolo": "Castilho",
+  "rival": ["Flamengo", "Vasco", "Botafogo"],
+  "forca_time": 66,
+  "fundos_time": 25000000
+  }

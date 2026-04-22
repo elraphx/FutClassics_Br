@@ -1,0 +1,14 @@
+  {
+  "id": "Cruzeiro",
+  "nome_time": "Cruzeiro Esporte Clube",
+  "sigla_tela": "CRU",
+  "apelido_time": "Raposa",
+  "estado_time": "MG",
+  "estadio": "Mineirão",
+  "capacidade_estadio": 61.927,
+  "cores_time": ["Azul", "Branco"],
+  "maior_idolo": "Tostão",
+  "rival": ["Atlético Mineiro"],
+  "forca_time": 69,
+  "fundos_time": 27000000
+  }

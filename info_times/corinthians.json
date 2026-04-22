@@ -1,0 +1,14 @@
+  {
+  "id": "Corinthians",
+  "nome_time": "Sport Club Corinthians Paulista",
+  "sigla_tela": "COR",
+  "apelido_time": "Timão",
+  "estado_time": "SP",
+  "estadio": "Neo-Química Arena",
+  "capacidade_estadio": 49.205,
+  "cores_time": ["Branco", "Preto"],
+  "maior_idolo": "Cássio",
+  "rival": ["Palmeiras", "São Paulo", "Santos"],
+  "forca_time": 71,
+  "fundos_time": 35000000
+  }

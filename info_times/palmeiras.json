@@ -1,0 +1,14 @@
+  {
+  "id": "Palmeiras",
+  "nome_time": "Sociedade Esportiva Palmeiras",
+  "sigla_tela": "PAL",
+  "apelido_time": "Verdão",
+  "estado_time": "SP",
+  "estadio": "Allianz Parque",
+  "capacidade_estadio": 43.713,
+  "cores_time": ["Verde", "Branco"],
+  "maior_idolo": "Ademir da Guia",
+  "rival": ["Corinthians", "São Paulo", "Santos"],
+  "forca_time": 72,
+  "fundos_time": 44000000
+}

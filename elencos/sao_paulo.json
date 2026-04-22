@@ -1,0 +1,116 @@
+{
+  "Goleiros": [
+    {
+      "nome": "Rogério Ceni",
+      "posicao": "GOL",
+      "overall": 94,
+      "badges": ["líder", "Decisivo", "Especialista em bolas paradas"]
+    },
+    {
+      "nome": "Zetti",
+      "posicao": "GOL",
+      "overall": 92,
+      "badges": ["Performista", "Especialista em defesas difíceis"]
+    },
+    {
+      "nome": "Waldyr Peres",
+      "posicao": "GOL",
+      "overall": 89,
+      "badges": ["Pegador de pênaltis", "Resistente"]
+    }
+],
+    "Zagueiros":[
+    {
+      "nome": "Oscar",
+      "posicao": "ZAG",
+      "overall": 90,
+      "badges": ["Líder", "Consistente"]
+    },
+    {
+        "nome": "Mauro Ramos",
+        "posicao": "ZAG",
+        "overall": 89,
+        "badges": ["Performista", "Especialista em bolas aéreas"]
+    },
+    {
+        "nome": "Lugano",
+        "posicao": "ZAG",
+        "overall": 84,
+        "badges": ["Líder", "Raçudo"]
+    },
+        {"nome": "Darío Pereyra",
+        "posicao": "ZAG",
+        "overall": 83,
+        "badges": ["Raçudo", "Especialista em desarmes"]
+    }
+  ],
+    "Laterais":[
+    {
+      "nome": "",
+      "posicao": "LAT_DIR",
+      "overall": ,
+      "badges": [""]
+    },
+    {
+        "nome": "Júnior",
+        "posicao": "LAT_DIR",
+        "overall": 87,
+        "badges": ["Líder", "Especialista em bolas paradas"]
+    },
+    {
+        "nome": "Cafu",
+        "posicao": "LAT",
+        "overall": 86,
+        "badges": ["Raçudo", "Especialista em cruzamentos"]
+    }
+  ],
+    "Volantes":[
+    {
+      "nome": "Zé Sérgio",
+      "posicao": "VOL",
+      "overall": 85,
+      "badges": ["Líder", "Versátil"]
+    },
+    {
+        "nome": "Toninho Cerezo",
+        "posicao": "VOL",
+        "overall": 84,
+        "badges": ["Líder", "Especialista em passes longos"]
+    },
+    {
+        "nome": "Ricardo Rocha",
+        "posicao": "VOL",
+        "overall": 83,
+        "badges": ["Raçudo", "Especialista em desarmes"]
+    }
+  ],
+    "Meias":[
+    {
+      "nome": "Raí",
+      "posicao": "MEI",
+      "overall": 92,
+      "badges": ["Líder", "Especialista em bolas paradas"]
+    },
+    {
+        "nome": "Kaká",
+        "posicao": "MEI",
+        "overall": 91,
+        "badges": ["Performista", "Especialista em dribles"]
+    },
+    {
+        "nome": "Leonardo",
+        "posicao": "MEI",
+        "overall": 89,
+        "badges": ["Versátil", "Especialista em passes curtos"]
+    }
+  ],
+    "Atacantes":[
+    {
+      "nome": "",
+      "posicao": "",
+      "overall": ,
+      "badges": []
+    }
+  ]
+
+}

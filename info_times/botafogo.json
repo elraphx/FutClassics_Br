@@ -1,0 +1,14 @@
+  {
+  "id": "Botafogo",
+  "nome_time": "Botafogo de Futebol e Regatas",
+  "sigla_tela": "BOT",
+  "apelido_time": "Fogão",
+  "estado_time": "RJ",
+  "estadio": "Engenhão",
+  "capacidade_estadio": 46.931,
+  "cores_time": ["Preto", "Branco"],
+  "maior_idolo": "Nilton Santos",
+  "rival": ["Flamengo", "Vasco", "Fluminense"],
+  "forca_time": 65,
+  "fundos_time": 23000000
+  }

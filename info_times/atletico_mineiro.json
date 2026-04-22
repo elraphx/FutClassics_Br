@@ -1,0 +1,14 @@
+  {
+  "id": "Atlético Mineiro",
+  "nome_time": "Clube Atlético Mineiro",
+  "sigla_tela": "ATL",
+  "apelido_time": "Galo",
+  "estado_time": "MG",
+  "estadio": "Mineirão",
+  "capacidade_estadio": 61.927,
+  "cores_time": ["Preto", "Branco"],
+  "maior_idolo": "Dadá Maravilha",
+  "rival": ["Cruzeiro"],
+  "forca_time": 66,
+  "fundos_time": 26000000
+  }

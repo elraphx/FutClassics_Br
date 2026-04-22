@@ -1,0 +1,14 @@
+{
+  "id": "Grêmio",
+  "nome_time": "Grêmio Foot-Ball Porto Alegrense",
+  "sigla_tela": "GRE",
+  "apelido_time": "Imortal",
+  "estado_time": "RS",
+  "estadio": "Estádio Olímpico",
+  "capacidade_estadio": 45.000,
+  "cores_time": ["Azul", "Branco", "Preto"],
+  "maior_idolo": "Renato Gaúcho",
+  "rival": ["Internacional"],
+  "forca_time": 70,
+  "fundos_time": 24500000
+}

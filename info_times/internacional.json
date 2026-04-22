@@ -1,0 +1,14 @@
+{
+  "id": "Internacional",
+  "nome_time": "Sport Club Internacional",
+  "sigla_tela": "INT",
+  "apelido_time": "Colorado",
+  "estado_time": "RS",
+  "estadio": "Beira-Rio",
+  "capacidade_estadio": 50.842,
+  "cores_time": ["Vermelho", "Branco"],
+  "maior_idolo": "Fernandão",
+  "rival": ["Grêmio"],
+  "forca_time": 68,
+  "fundos_time": 26000000
+}

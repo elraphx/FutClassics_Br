@@ -1,0 +1,178 @@
+{
+  "Goleiros": [
+    {
+      "nome": "",
+      "posicao": "GOL",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "GOL",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "GOL",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Zagueiros": [
+    {
+      "nome": "",
+      "posicao": "ZAG",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ZAG",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ZAG",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ZAG",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Laterais_Direitos": [
+    {
+      "nome": "",
+      "posicao": "LD",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "LD",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Laterais_Esquerdos": [
+    {
+      "nome": "",
+      "posicao": "LE",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "LE",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Volantes": [
+    {
+      "nome": "",
+      "posicao": "VOL",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "VOL",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "VOL",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Meias": [
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "MEI",
+      "overall": 0,
+      "badges": []
+    }
+  ],
+
+  "Atacantes": [
+    {
+      "nome": "",
+      "posicao": "ATA",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ATA",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ATA",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ATA",
+      "overall": 0,
+      "badges": []
+    },
+    {
+      "nome": "",
+      "posicao": "ATA",
+      "overall": 0,
+      "badges": []
+    }
+  ]
+}

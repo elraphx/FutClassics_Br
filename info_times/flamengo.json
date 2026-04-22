@@ -1,0 +1,14 @@
+  {
+  "id": "Flamengo",
+  "nome_time": "Clube de Regatas Flamengo",
+  "sigla_tela": "FLA",
+  "apelido_time": "Mengão",
+  "estado_time": "RJ",
+  "estadio": "Maracanã",
+  "capacidade_estadio": 78.838,
+  "cores_time": ["Vermelho", "Preto"],
+  "maior_idolo": "Zico",
+  "rival": ["Vasco", "Fluminense", "Botafogo"],
+  "forca_time": 74,
+  "fundos_time": 50000000
+  }
